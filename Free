@@ -1,9 +1,9 @@
 if not lp_key then return end
 
 local links = {
-    [11729688377] = "https://luaprot.net/api/v3/loaders/get/99789352167974487639",
-    [11879754496] = "https://luaprot.net/api/v3/loaders/get/99789352167974487639",
-    [85016391652478] = "https://luaprot.net/api/v3/loaders/get/99789352167974487639",
+    [11729688377] = "https://luaprot.net/api/v3/loaders/get/60099576366773260962",
+    [11879754496] = "https://luaprot.net/api/v3/loaders/get/60099576366773260962",
+    [85016391652478] = "https://luaprot.net/api/v3/loaders/get/60099576366773260962",
 }
 
 local url = links[game.PlaceId]
